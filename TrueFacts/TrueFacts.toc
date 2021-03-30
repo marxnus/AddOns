@@ -1,0 +1,8 @@
+## Interface: 11306
+## Title: TrueFacts
+## Notes: The only worldly facts that matter!
+## Author: Marxnus
+## Version: 0.0.1
+
+TrueFacts.lua
+TFLoginReload.lua
